@@ -1,6 +1,10 @@
+import Botao from "@/components/Botao"
+
 const App = () => {
   return(
-    <h1>hello world</h1>
+    <Botao className="">
+        Aplicar
+    </Botao>
   )
 }
 
